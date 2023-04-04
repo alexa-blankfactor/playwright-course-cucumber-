@@ -1,0 +1,2 @@
+Install 
+npm i --save-dev playwright chai prettier @cucumber/cucumber cucumber-html-reporter
